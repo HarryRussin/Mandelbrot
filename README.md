@@ -10,4 +10,4 @@ The function is performed on each pixel, therefore the window is small.
 - go forward a frame: **2**
 - set the current frame as your new reference frame: **p**
 
-  
+https://replit.com/@HarryRussin1/Mandelbrot-1
